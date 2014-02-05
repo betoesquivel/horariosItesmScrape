@@ -1,0 +1,139 @@
+imapConnected
+======emailParsed======
+HI95025.1 Alemán avanzado II
+Friederike Stephanie Noberger
+
+CRQ
+
+13 de Ene 2014 al 7 de May 2014
+L M V
+10:30 a 12:00
+A-CI-
+416
+TC1020.2 Bases de datos
+Lorena G Gómez M
+
+
+Curso Ciudadanía Transversal
+15 de Ene 2014 al 7 de May 2014
+M V
+9:00 a 10:30
+A-A4-
+417
+TC1021.2 Proyecto  desarrollo de videoj
+Antonio Javier Mejorado C
+
+
+13 de Ene 2014 al 7 de May 2014
+L M
+13:30 a 15:00
+A-A3-
+301
+TC2017.2 Análisis y diseño de algoritm
+Luis Humberto González G
+
+
+14 de Ene 2014 al 6 de May 2014
+M J
+15:00 a 16:30
+A-A3-
+302
+TC2008.2 Sistemas operativos
+Profesores
+José Ignacio Juan de Icaza A
+
+SPF
+
+
+Jorge Luis Garza M
+
+Auxiliar de planta
+
+13 de Ene 2014 al 5 de May 2014
+L
+15:00 a 16:30
+A-A3-
+101
+14 de Ene 2014 al 6 de May 2014
+M J
+18:00 a 19:30
+A-A3-
+312
+TC2022.1 Interconexión de redes
+José Raúl Pérez C
+
+
+13 de Ene 2014 al 7 de May 2014
+L M
+16:30 a 18:00
+A-A3-
+304
+======emailParsed======
+HI95025.1 Alemán avanzado II
+Friederike Stephanie Noberger
+
+CRQ
+
+13 de Ene 2014 al 7 de May 2014
+L M V
+10:30 a 12:00
+A-CI-
+416
+TC1020.2 Bases de datos
+Lorena G Gómez M
+
+
+Curso Ciudadanía Transversal
+15 de Ene 2014 al 7 de May 2014
+M V
+9:00 a 10:30
+A-A4-
+417
+TC1021.2 Proyecto  desarrollo de videoj
+Antonio Javier Mejorado C
+
+
+13 de Ene 2014 al 7 de May 2014
+L M
+13:30 a 15:00
+A-A3-
+301
+TC2017.2 Análisis y diseño de algoritm
+Luis Humberto González G
+
+
+14 de Ene 2014 al 6 de May 2014
+M J
+15:00 a 16:30
+A-A3-
+302
+TC2008.2 Sistemas operativos
+Profesores
+José Ignacio Juan de Icaza A
+
+SPF
+
+
+Jorge Luis Garza M
+
+Auxiliar de planta
+
+13 de Ene 2014 al 5 de May 2014
+L
+15:00 a 16:30
+A-A3-
+101
+14 de Ene 2014 al 6 de May 2014
+M J
+18:00 a 19:30
+A-A3-
+312
+TC2022.1 Interconexión de redes
+José Raúl Pérez C
+
+
+13 de Ene 2014 al 7 de May 2014
+L M
+16:30 a 18:00
+A-A3-
+304

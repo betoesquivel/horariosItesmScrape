@@ -1,0 +1,215 @@
+imapConnected
+======emailParsed======
+0
+HI95025.1 Alemán avanzado II
+1
+Friederike Stephanie Noberger
+2
+CRQ
+3
+13 de Ene 2014 al 7 de May 2014
+4
+L M V
+5
+10:30 a 12:00
+6
+A-CI-
+7
+416
+8
+TC1020.2 Bases de datos
+9
+Lorena G Gómez M
+10
+Curso Ciudadanía Transversal
+11
+15 de Ene 2014 al 7 de May 2014
+12
+M V
+13
+9:00 a 10:30
+14
+A-A4-
+15
+417
+16
+TC1021.2 Proyecto  desarrollo de videoj
+17
+Antonio Javier Mejorado C
+18
+13 de Ene 2014 al 7 de May 2014
+19
+L M
+20
+13:30 a 15:00
+21
+A-A3-
+22
+301
+23
+TC2017.2 Análisis y diseño de algoritm
+24
+Luis Humberto González G
+25
+14 de Ene 2014 al 6 de May 2014
+26
+M J
+27
+15:00 a 16:30
+28
+A-A3-
+29
+302
+30
+TC2008.2 Sistemas operativos
+31
+Profesores
+32
+José Ignacio Juan de Icaza A
+33
+SPF
+34
+Jorge Luis Garza M
+35
+Auxiliar de planta
+36
+13 de Ene 2014 al 5 de May 2014
+37
+L
+38
+15:00 a 16:30
+39
+A-A3-
+40
+101
+41
+14 de Ene 2014 al 6 de May 2014
+42
+M J
+43
+18:00 a 19:30
+44
+A-A3-
+45
+312
+46
+TC2022.1 Interconexión de redes
+47
+José Raúl Pérez C
+48
+13 de Ene 2014 al 7 de May 2014
+49
+L M
+50
+16:30 a 18:00
+51
+A-A3-
+52
+304
+======emailParsed======
+53
+HI95025.1 Alemán avanzado II
+54
+Friederike Stephanie Noberger
+55
+CRQ
+56
+13 de Ene 2014 al 7 de May 2014
+57
+L M V
+58
+10:30 a 12:00
+59
+A-CI-
+60
+416
+61
+TC1020.2 Bases de datos
+62
+Lorena G Gómez M
+63
+Curso Ciudadanía Transversal
+64
+15 de Ene 2014 al 7 de May 2014
+65
+M V
+66
+9:00 a 10:30
+67
+A-A4-
+68
+417
+69
+TC1021.2 Proyecto  desarrollo de videoj
+70
+Antonio Javier Mejorado C
+71
+13 de Ene 2014 al 7 de May 2014
+72
+L M
+73
+13:30 a 15:00
+74
+A-A3-
+75
+301
+76
+TC2017.2 Análisis y diseño de algoritm
+77
+Luis Humberto González G
+78
+14 de Ene 2014 al 6 de May 2014
+79
+M J
+80
+15:00 a 16:30
+81
+A-A3-
+82
+302
+83
+TC2008.2 Sistemas operativos
+84
+Profesores
+85
+José Ignacio Juan de Icaza A
+86
+SPF
+87
+Jorge Luis Garza M
+88
+Auxiliar de planta
+89
+13 de Ene 2014 al 5 de May 2014
+90
+L
+91
+15:00 a 16:30
+92
+A-A3-
+93
+101
+94
+14 de Ene 2014 al 6 de May 2014
+95
+M J
+96
+18:00 a 19:30
+97
+A-A3-
+98
+312
+99
+TC2022.1 Interconexión de redes
+100
+José Raúl Pérez C
+101
+13 de Ene 2014 al 7 de May 2014
+102
+L M
+103
+16:30 a 18:00
+104
+A-A3-
+105
+304
